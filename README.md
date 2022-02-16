@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azizchelchel
+- 👋 Hi, I’m chellal aziz
 - 👀 I’m interested in Web developpement
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web Projects
